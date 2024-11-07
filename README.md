@@ -40,10 +40,18 @@ I’m passionate about transforming complex datasets into clear, actionable insi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gseba&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 ### 📊 GitHub Stats
-[![Ghassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&hide_border=true)](https://git.io/streak-stats)  ![Ghassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gseba&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
+
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gseba&theme=dark&hide_border=true" alt="Ghassan's GitHub Streak"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=gseba&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e" alt="Ghassan's GitHub stats"/>
+</div>
 
 ---
+
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassanseba)
