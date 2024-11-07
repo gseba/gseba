@@ -41,8 +41,7 @@ I’m passionate about transforming complex datasets into clear, actionable insi
 
 ---
 ### 📊 GitHub Stats
-[![Ghassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-![Ghassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gseba&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
+[![Ghassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&hide_border=true)](https://git.io/streak-stats)  ![Ghassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gseba&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
 ---
 
