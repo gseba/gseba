@@ -42,4 +42,11 @@ I’m passionate about transforming complex datasets into clear, actionable insi
 
 ---
 
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassanseba)
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/ghassanseba) to discuss data analytics, program management, and more!
+
+---
+
 Thank you for visiting my profile! Feel free to connect with me or check out my projects to see what I’m working on. Let's innovate together!
