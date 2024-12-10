@@ -7,7 +7,7 @@ I’m passionate about transforming complex datasets into clear, actionable insi
 ---
 
 ### 🎓 Education
-- **M.S. in Applied Data Science** *(Expected Dec 2024)* — University of San Diego
+- **M.S. in Applied Data Science** — University of San Diego
 - **Certificate in Data Science and Visualization** — UC San Diego Extended Studies (2019-2020)
 - **B.S. in Finance** — San Diego State University (2006-2009)
 
