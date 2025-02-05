@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Ghassan Seba!
 
-Welcome to my GitHub profile! I’m a Data Analyst and Program Manager with 2 decades of experience in workforce development, program management, and data analytics. Currently, I’m pursuing my Master’s in Applied Data Science at the University of San Diego, where I'm exploring advanced topics in machine learning, natural language processing, and data visualization.
+Welcome to my GitHub profile! I’m a Data Scientist and Program Manager with 2 decades of experience in workforce development, program management, and data analytics. I have obtained my **Master’s in Applied Data Science** 
+          at the University of San Diego, where I specialized in **machine learning, natural language processing, and data visualization**.
 
 I’m passionate about transforming complex datasets into clear, actionable insights through data pipelines, ETL processes, and visualization tools. My mission is to leverage data-driven solutions that enhance operational efficiency and support strategic decision-making.
 
