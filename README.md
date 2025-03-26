@@ -1,24 +1,42 @@
 # 👋 Hi there, I'm Ghassan Seba!
 
-Welcome to my GitHub profile! I’m a Data Scientist and Program Manager with 2 decades of experience in workforce development, program management, and data analytics. I have obtained my **Master’s in Applied Data Science** 
-          at the University of San Diego, where I specialized in **machine learning, natural language processing, and data visualization**.
+Welcome to my GitHub profile! I’m a Data Scientist and Program Manager with 2 decades of experience in workforce development, program management, and data analytics. I have obtained my **Master’s in Applied Data Science** at the University of San Diego, where I specialized in **machine learning, natural language processing, and data visualization**.
 
-I’m passionate about transforming complex datasets into clear, actionable insights through data pipelines, ETL processes, and visualization tools. My mission is to leverage data-driven solutions that enhance operational efficiency and support strategic decision-making.
+I’m passionate about transforming complex datasets into clear, actionable insights using data pipelines, ETL processes, advanced analytics, and machine learning. My mission is to develop data-driven solutions that enhance operational efficiency, uncover hidden patterns, and support strategic decision-making through predictive modeling and intelligent automation.
+
+---
+
+### 🚀 Featured Projects
+Here are some of the projects I’ve worked on that highlight my skills in machine learning, NLP, data visualization, and modeling:
+
+- **[Pop Sentiment Analysis: Lyrics, Tweets & Emojis](https://github.com/gseba/Pop-Sentiment-Analysis-Lyrics-Tweets-Emojis)**  
+  Explores the intersection of music and social media by analyzing sentiment across pop song lyrics and fan tweets using NLP and emoji-aware sentiment tools.
+
+- **[E-Commerce Shopper Behavior & Intention Modeling](https://github.com/gseba/E-Commerce-Shopper-Behavior-Intention-Modeling)**  
+  A machine learning classification project that models shopper intent based on session behavior, applying preprocessing, SMOTE balancing, and hyperparameter tuning.
+
+- **[Classifying Party Affiliation in Political Texts](https://github.com/gseba/Classifying-Party-Affiliation-in-Political-Texts)**  
+  Uses supervised learning and text vectorization to predict political party affiliation from U.S. political speeches and documents.
+
+- **[Forecasting Cryptocurrency Trends with Time Series and Machine Learning](https://github.com/gseba/Forecasting-Cryptocurrency-Trends-with-Time-Series-and-Machine-Learning)**  
+  Combines traditional time series methods with machine learning to model and forecast Bitcoin and Ethereum price trends.
+
+- **[Categorical Topic Modeling with NMF, LSA & LDA](https://github.com/gseba/Categorical-Topic-Modeling-with-NMF-LSA-LDA)**  
+  Compares multiple topic modeling approaches to extract latent topics from text data, evaluating interpretability and cluster quality.
 
 ---
 
 ### 🎓 Education
-- **M.S. in Applied Data Science** — University of San Diego - Shiley-Marcos School of Engineering (2023-2024)
-- **Certificate in Data Science and Visualization** — UC San Diego Extended Studies (2019-2020)
-- **B.S. in Finance** — San Diego State University (2006-2009)
-
+- **M.S. in Applied Data Science** — University of San Diego - Shiley-Marcos School of Engineering (2023–2024)  
+- **Certificate in Data Science and Visualization** — UC San Diego Extended Studies (2019–2020)  
+- **B.S. in Finance** — San Diego State University (2006–2009)
 
 ---
 
 ### 💼 Professional Experience
 **Program Manager - Workforce Development | NAVWAR**  
-- **Data Pipeline Development:** Built ETL pipelines and dashboards to track staff training and certification across the organization.
-- **Visualization & Reporting:** Created dynamic Tableau dashboards for monitoring performance and decision-making.
+- **Data Pipeline Development:** Built ETL pipelines and dashboards to track staff training and certification across the organization.  
+- **Visualization & Reporting:** Created dynamic Tableau dashboards for monitoring performance and decision-making.  
 - **Team Training:** Delivered a large-scale training program on Office 365 and DoD Secure Cloud for 600+ employees, focusing on productivity and compliance.
 
 ---
@@ -52,7 +70,6 @@ I’m passionate about transforming complex datasets into clear, actionable insi
 </div>
 
 ---
-
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassanseba)
