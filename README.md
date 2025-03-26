@@ -9,6 +9,9 @@ I’m passionate about transforming complex datasets into clear, actionable insi
 ### 🚀 Featured Projects
 Here are some of the projects I’ve worked on that highlight my skills in machine learning, NLP, data visualization, and modeling:
 
+- **[Forecasting Cryptocurrency Trends with Time Series and Machine Learning](https://github.com/gseba/Forecasting-Cryptocurrency-Trends-with-Time-Series-and-Machine-Learning)**  
+  Combines traditional time series methods with machine learning to model and forecast Bitcoin and Ethereum price trends.
+
 - **[Pop Sentiment Analysis: Lyrics, Tweets & Emojis](https://github.com/gseba/Pop-Sentiment-Analysis-Lyrics-Tweets-Emojis)**  
   Explores the intersection of music and social media by analyzing sentiment across pop song lyrics and fan tweets using NLP and emoji-aware sentiment tools.
 
@@ -17,9 +20,6 @@ Here are some of the projects I’ve worked on that highlight my skills in machi
 
 - **[Classifying Party Affiliation in Political Texts](https://github.com/gseba/Classifying-Party-Affiliation-in-Political-Texts)**  
   Uses supervised learning and text vectorization to predict political party affiliation from U.S. political speeches and documents.
-
-- **[Forecasting Cryptocurrency Trends with Time Series and Machine Learning](https://github.com/gseba/Forecasting-Cryptocurrency-Trends-with-Time-Series-and-Machine-Learning)**  
-  Combines traditional time series methods with machine learning to model and forecast Bitcoin and Ethereum price trends.
 
 - **[Categorical Topic Modeling with NMF, LSA & LDA](https://github.com/gseba/Categorical-Topic-Modeling-with-NMF-LSA-LDA)**  
   Compares multiple topic modeling approaches to extract latent topics from text data, evaluating interpretability and cluster quality.
